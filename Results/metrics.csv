@@ -1,0 +1,37 @@
+Model,Metric Type,Metric Name,Value
+AdaBoost,Training,Accuracy,0.7807737397420867
+AdaBoost,Training,Precision,0.7836018273623467
+AdaBoost,Training,Recall,0.888495092693566
+AdaBoost,Training,F1,0.8327584004088413
+AdaBoost,Testing,Accuracy,0.7421299397186872
+AdaBoost,Testing,Precision,0.7528625954198473
+AdaBoost,Testing,Recall,0.8622950819672132
+AdaBoost,Testing,F1,0.803871625063678
+AdaBoost,ROC AUC,Value,0.7979229300206101
+Extra Trees,Training,Accuracy,0.9872718137665383
+Extra Trees,Training,Precision,0.9944933920704846
+Extra Trees,Training,Recall,0.9847328244274809
+Extra Trees,Training,F1,0.9895890410958904
+Extra Trees,Testing,Accuracy,0.8070997990622907
+Extra Trees,Testing,Precision,0.8163471241170535
+Extra Trees,Testing,Recall,0.8841530054644808
+Extra Trees,Testing,F1,0.8488982161594963
+Extra Trees,ROC AUC,Value,0.8581485053037607
+Gradient Boosting,Training,Accuracy,0.8244850108859487
+Gradient Boosting,Training,Precision,0.8244180287270926
+Gradient Boosting,Training,Recall,0.9075790621592148
+Gradient Boosting,Training,F1,0.8640020763041786
+Gradient Boosting,Testing,Accuracy,0.7568653717347622
+Gradient Boosting,Testing,Precision,0.7653846153846153
+Gradient Boosting,Testing,Recall,0.8699453551912568
+Gradient Boosting,Testing,F1,0.8143222506393862
+Gradient Boosting,ROC AUC,Value,0.8306417456085616
+Random Forest,Training,Accuracy,0.9872718137665383
+Random Forest,Training,Precision,0.9846195358877496
+Random Forest,Training,Recall,0.9948200654307524
+Random Forest,Training,F1,0.9896935177651207
+Random Forest,Testing,Accuracy,0.8010716677829873
+Random Forest,Testing,Precision,0.8096192384769539
+Random Forest,Testing,Recall,0.8830601092896175
+Random Forest,Testing,F1,0.8447464715107161
+Random Forest,ROC AUC,Value,0.8693232741505474
